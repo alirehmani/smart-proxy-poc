@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "smart-proxy-poc": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
